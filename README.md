@@ -40,7 +40,7 @@
 ***CLICK THE BUTTON BELOW TO DEPLOY 🙈🌸***
 
  <details close>
-<summary> ⚜️l</summary>
+<summary>⚜️ DEPLOY IN THE PLATFORM</summary>
 1.  #### DEPLOY IN HEROKU 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)

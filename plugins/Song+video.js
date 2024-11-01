@@ -16,12 +16,25 @@ const search = await yts(q)
 const data = search.videos[0];
 const url = data.url 
 
-}
+let desc = `
+🌸 *KING ASH MD SONG DOWNLOADER* 🌸
 
-catch(e){
-console.log(e)
- reply(`${e}`)
-}
-})
+tittie: ${data.tittie}
+description: ${data.discripsion}
+time: ${data.timestamp}
+ago: ${data.ago}
+views: ${data.views}
+
+MADE BY OLD KING LOKU ASH 💚
+`
+await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
+    
+//download audio 
+
+let down = await fg.yta(url)
+
+
+
+
 
   

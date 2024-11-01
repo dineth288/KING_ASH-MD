@@ -13,6 +13,13 @@ A simple &amp; best multiple Whatsapp Bot 👨‍💻⚠️
 
 
 
+
+
+
+
+
+𝐒𝐓𝐄𝐏 2 👇🙈
+
 KING ASH MD PARING CODE ✅
 
 https://pair-web-public.koyeb.app/

@@ -1,12 +1,12 @@
 {
-  "name": "KING_ASH-MD",
-  "version": "1.0.2",
-  "description": "ᴋɪɴɢ ᴀꜱʜ ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ.js",
+  "name": "king ash",
+  "version": "1.0.0",
+  "description": "King Ash MD WhatsApp bot created King Loku Ash With using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name KING_ASH-MD",
-    "stop": "pm2 stop KING_ASH-MD",
-    "restart": "pm2 restart KING_ASH-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name wabot",
+    "stop": "pm2 stop wabot",
+    "restart": "pm2 restart wabot"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",
@@ -23,7 +23,10 @@
     "megajs": "^1.1.0",
     "vm": "^0.1.0",
     "qrcode-terminal": "^0.12.0",
-    "yt-search": "2.12.1",
-    "api-dylux": "1.8.5"
+    "yt-search": "2.11.1",
+    "api-dylux": "1.8.5",
+    "google-tts-api":"2.0.2",
+    "wa-sticker-formatter":"4.4.4"
   }
 }
+

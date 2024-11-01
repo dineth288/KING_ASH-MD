@@ -12,12 +12,12 @@
     },  
 
     "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+      "description": "https://files.fm/u/gqwt3mx6jv.",
       "required": true
     },
     
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "Hello' I ᴀᴍ ᴋɪɴɢ ᴀꜱʜ ᴍᴅ ɪ ᴀᴍ Alive Now 😼✅ .",
       "required": true
     }   
 },

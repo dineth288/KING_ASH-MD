@@ -11,6 +11,8 @@ A simple &amp; best multiple Whatsapp Bot 👨‍💻⚠️
 
 
 
-ᴘᴀʀɪɴɢ ᴄᴏᴅᴇ ✅
+
+
+KING ASH MD PARING CODE ✅
 
 https://pair-web-public.koyeb.app/

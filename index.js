@@ -59,7 +59,7 @@ if (lastDisconnect.error.output.statusCode !== DisconnectReason.loggedOut) {
 connectToWA()
 }
 } else if (connection === 'open') {
-console.log('😼 Ash Md Installing... ')
+console.log('😁💚 Ash Md Installing... ')
 const path = require('path');
 fs.readdirSync("./plugins/").forEach((plugin) => {
 if (path.extname(plugin).toLowerCase() == ".js") {
@@ -71,7 +71,7 @@ console.log('KING ASH MD Bot connected to whatsapp ✅…')
 
   let up = `ᴋɪɴɢ ᴀꜱʜ-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ ꜱᴜᴄꜱᴇꜱꜱꜰᴜʟʟʏ ✅…\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/9hT7tvK/20241101-085031.png` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/nfX5yZ6/IMG-20241101-WA0114.jpg` }, caption: up })
 
 }
 })

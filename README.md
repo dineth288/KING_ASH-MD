@@ -1,6 +1,6 @@
 <div align="center">
 	<h3>⚜️ KING ASH WHATSAPP BOT ⚜️</h3>
-<img src="https://i.ibb.co/nfX5yZ6/IMG-20241101-WA0114.jpg" width="300" height="190">
+<img src="https://i.ibb.co/9hT7tvK/20241101-085031.png" width="300" height="190">
 </div>
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Ash+MD...;Created+by+King+Loku+Ash...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Ash+Md..."

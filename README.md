@@ -1,6 +1,6 @@
 <div align="center">
-	<h3>👧🏻 Alexa Whatsapp Bot 👧🏻</h3>
-<img src="https://i.ibb.co/zQg9dzm/IMG-20241025-WA0018.jpg" width="300" height="190">
+	<h3>👧🏻 KING ASH WHATSAPP BOT 👧🏻</h3>
+<img src="![image alt](https://github.com/Dinuwamin/KING_ASH-MD/blob/c899a6a602a003323fc4f337210d4a2340cf3339/20241101_085031.png" width="300" height="190">
 </div>
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Alexa...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Alexa..."

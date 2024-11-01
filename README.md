@@ -31,7 +31,7 @@
 <h5>⚜️ If you past session id in (config.js/SESSION_ID || "past_copy_text")</h5>
 
 <h3>⚜️ Ash Md Supported Group link </h3>
-<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Ash Md suported 👧</a>
+<a href="https://chat.whatsapp.com/Ksu5Sr4TAqnHcEU8afFB6o">Join Ash Md suported 👧</a>
 <hr>
 <h3>⚜️ Ash Md updates chanels </h3>
 <a href="https://whatsapp.com/channel/0029VapKsJeKmCPQ53eTsF1E">Join Ash Md updates chanel 👧</a>

@@ -40,7 +40,7 @@
 ***CLICK THE BUTTON BELOW TO DEPLOY 🙈🌸***
 
  <details close>
-<summary>⚜️ DEPLOY IN THE PLATFORM</summary>
+<summary>⚜✅ DEPLOY IN PLATFORM 🖐️</summary>
 1.  #### DEPLOY IN HEROKU 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=new)
@@ -80,7 +80,7 @@
 --------
 </details>
 <details close>
-<summary>⚜️ DEPLOY IN FREE ⚜️</summary>
+<summary>⚜✅ DEPLOY IN FREE ⚜🖐️</summary>
 <h5>⚜️ Deploy Free Koyeb👇</h5>
 <a href="http://koyeb.com" >
 <h5>⚜️ bot deployind the free using this workflows code 👇</h5>

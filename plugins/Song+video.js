@@ -17,7 +17,7 @@ const data = search.videos[0];
 const url = data.url 
 
 let desc = `
-🌸 *KING ASH MD SONG DOWNLOADER* 🌸
+ *𝙆𝙄𝙉𝙂 𝘼𝙎𝙃 𝙈𝘿 𝙎𝙊𝙉𝙂 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿𝙀𝙍* 🎶
 
 tittle: ${data.title}
 discription: ${data.discription}
@@ -25,7 +25,7 @@ time: ${data.timestamp}
 ago: ${data.ago}
 views: ${data.views}
 
-CREATE BY OLD KING LOKU ASH 👨‍💻✅
+𝐂𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝐎𝐋𝐃 𝐊𝐈𝐍𝐆 𝐀𝐒𝐇👨‍💻✅
 `
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
     
@@ -37,7 +37,7 @@ let downloadUrl = down.dl_url
 //send audio message
 await conn.sendMessage(from,{audio: {url:downloadUrl},mimetype:"audio/mpeg"},{quoted:mek})
 
-
+await conn.sendMessage(from,{document: {url:downloadUrl},mimetype:"audio/mp3",fileName:deta.title + ".mp3"},{quoted:mek})
 
 
   
@@ -64,7 +64,7 @@ const data = search.videos[0];
 const url = data.url 
 
 let desc = `
-🌸 *KING ASH MD VIDEO DOWNLOADER* 🌸
+*𝙆𝙄𝙉𝙂 𝘼𝙎𝙃 𝙈𝘿 𝙑𝙄𝘿𝙀𝙊 𝘿𝙊𝙒𝙉𝙇𝙊𝘼𝘿𝙀𝙍* 🎥
 
 tittle: ${data.title}
 discription: ${data.discription}
@@ -72,7 +72,8 @@ time: ${data.timestamp}
 ago: ${data.ago}
 views: ${data.views}
 
-CREATE BY OLD KING LOKU ASH 👨‍💻✅
+
+𝐂𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝐎𝐋𝐃 𝐊𝐈𝐍𝐆 𝐀𝐒𝐇 👨‍💻✅
 `
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
     

@@ -1,6 +1,6 @@
 <div align="center">
-	<h3>👧🏻 KING ASH WHATSAPP BOT 👧🏻</h3>
-<img src="![image alt](https://github.com/Dinuwamin/KING_ASH-MD/blob/c899a6a602a003323fc4f337210d4a2340cf3339/20241101_085031.png" width="300" height="190">
+	<h3>⚜️ KING ASH WHATSAPP BOT ⚜️</h3>
+<img src="[url=https://ibb.co/9hT7tvK][img]https://i.ibb.co/9hT7tvK/20241101-085031.png[/img][/url]" width="300" height="190">
 </div>
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Ash+MD...;Created+by+King+Loku+Ash...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Ash+Md..."

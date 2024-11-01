@@ -11,7 +11,7 @@ cmd({
 },
 async(conn, mek, m,{from, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply}) => {
 try{
-if(!q) return reply("Please give me a Url Or Titel")
+if(!q) return reply("Please give me a song Url Or Tittle 🚫")
 const search = await yts(q) 
 const data = search.videos[0];
 const url = data.url 
@@ -19,13 +19,13 @@ const url = data.url
 let desc = `
 🌸 *KING ASH MD SONG DOWNLOADER* 🌸
 
-tittie: ${data.tittie}
-description: ${data.discripsion}
+tittle: ${data.tittle}
+discription: ${data.discription}
 time: ${data.timestamp}
 ago: ${data.ago}
 views: ${data.views}
 
-MADE BY OLD KING LOKU ASH 💚
+CREATE BY OLD KING LOKU ASH 👨‍💻✅
 `
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
     

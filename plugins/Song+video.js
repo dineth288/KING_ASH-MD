@@ -38,4 +38,11 @@ let downloadUrl = dowm.dl_url
 await conn.sendMessage(from,{audio: {url:downloadUrl},mimetype:"audio/mpeg"},{quoted:mek})
 
 
+
+
   
+}catch(e){
+console.log(e)
+reply(`${e}`)
+}
+})

@@ -82,8 +82,7 @@
 <details close>
 <summary>⚜️ DEPLOY IN FREE ⚜️</summary>
 <h5>⚜️ Deploy Free Koyeb👇</h5>
-<a href="http://koyeb.com" ><img src="https://i.ibb.co/t4KftP0/images.png width="50" height="25"></a>
-<hr>
+<a href="http://koyeb.com" >
 <h5>⚜️ bot deployind the free using this workflows code 👇</h5>
 
 ```

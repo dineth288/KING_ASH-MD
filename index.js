@@ -71,7 +71,7 @@ console.log('KING ASH MD Bot connected to whatsapp ✅…')
 
   let up = `ᴋɪɴɢ ᴀꜱʜ-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ ꜱᴜᴄꜱᴇꜱꜱꜰᴜʟʟʏ ✅…\n\nPREFIX: ${prefix}`;
 
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.fm/u/gqwt3mx6jv` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://github.com/Dinuwamin/KING_ASH-MD/blob/c899a6a602a003323fc4f337210d4a2340cf3339/20241101_085031.png` }, caption: up })
 
 }
 })

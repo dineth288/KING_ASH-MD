@@ -5,7 +5,7 @@ A simple &amp; best multiple Whatsapp Bot 👨‍💻⚠️
 
 
 
-https://files.fm/u/gqwt3mx6jv
+<img||"https://files.fm/f/tpcecnxkug",
 
 
 

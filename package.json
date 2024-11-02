@@ -1,7 +1,7 @@
 {
-  "name": "king ash",
+  "name": "KingAsh",
   "version": "1.0.0",
-  "description": "King Ash MD WhatsApp bot created King Loku Ash With using Node.js",
+  "description": "Ash Md WhatsApp bot created Dineth With using Node.js",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name wabot",
@@ -26,7 +26,8 @@
     "yt-search": "2.11.1",
     "api-dylux": "1.8.5",
     "google-tts-api":"2.0.2",
-    "wa-sticker-formatter":"4.4.4"
+    "wa-sticker-formatter":"4.4.4",
+    "gifted-dls":"1.2.2"
   }
 }
 
